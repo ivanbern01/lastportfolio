@@ -48,7 +48,6 @@ export const DATA = {
       },
     },
   },
-  work: [],
   education: [
     {
       school: "Moonwalk Elementary School",
