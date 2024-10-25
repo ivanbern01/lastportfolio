@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "next build && next export && touch out/.nojekyll" 1  // Added this line
+    "deploy": "next build && next export && touch out/.nojekyll" 
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.4",
